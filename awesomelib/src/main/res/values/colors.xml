@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#51b0d3</color>
+    <color name="red">#FF4949</color>
+    <color name="green">#3BB543</color>
+    <color name="blue">#4169E1</color>
+    <color name="orange">#FFA500</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cancel">#CCCCCC</color>
+    <color name="button">#00C0FE</color>
+    <color name="dialogInfoBackgroundColor">#2866BF</color>
+    <color name="dialogSuccessBackgroundColor">#00b576</color>
+    <color name="dialogProgressBackgroundColor">#2866BF</color>
+    <color name="dialogErrorBackgroundColor">#C1272D</color>
+    <color name="dialogWarningBackgroundColor">#f2c304</color>
+    <color name="dialogNoticeBackgroundColor">#737373</color>
+    <color name="colorPrimary">#2866BF</color>
+    <color name="busSectionTitle">#464850</color>
+    <color name="colorTextPrimary">#333333</color>
+    <color name="colorTextGray">#8E9098</color>
+    <color name="colorButonDisableBlue">#e2e4ec</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorBlue">#057AFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDim">#e8eaee</color>
+    <color name="dialog_message_color">#8e9098</color>
+
+
+    <color name="film_seat_active">#b8daff</color>
+    <color name="film_seat_selected">#057aff</color>
+    <color name="film_seat_disable">#e2e4ec</color>
+    <color name="film_seat_inactive">#bec0c8</color>
+</resources>

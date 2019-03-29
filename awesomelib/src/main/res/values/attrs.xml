@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTextView">
+        <attr name="customStyle">
+            <flag name="regular" value="1" />
+            <flag name="bold" value="2" />
+            <flag name="semiBold" value="3" />
+        </attr>
+    </declare-styleable>
+</resources>

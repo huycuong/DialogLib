@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AwesomeLib</string>
+    <string name="dialog_ok_button">Đồng ý</string>
+    <string name="dialog_yes_button">Yes</string>
+    <string name="dialog_no_button">No</string>
+    <string name="dialog_neutral_button">Neutral</string>
+    <string name="text_bank_existed">Bạn đã có tài khoản Vietbank. Vui lòng liên hệ với Vietbank qua hotline <font color='#057aff'>18001122</font> để lấy thông tin số tài khoản.</string>
+    <string name="view_detail">Xem chi tiết</string>
+</resources>

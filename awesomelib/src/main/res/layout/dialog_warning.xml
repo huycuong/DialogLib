@@ -18,7 +18,7 @@
         android:layout_marginRight="40dp"
         android:background="@drawable/dialog_round">
 
-        <com.awesomedialog.blennersilva.awesomedialoglibrary.custom.CustomTextView
+        <com.cuong.awesomelib.custom.CustomTextView
             android:id="@+id/dialog_title"
             android:layout_marginTop="12dp"
             android:textSize="16sp"

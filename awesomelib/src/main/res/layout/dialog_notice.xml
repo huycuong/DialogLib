@@ -37,7 +37,7 @@
                 android:minHeight="@dimen/min_height_banner"
                 android:scaleType="fitXY" />
 
-            <com.awesomedialog.blennersilva.awesomedialoglibrary.custom.CustomTextView
+            <com.cuong.awesomelib.custom.CustomTextView
                 android:id="@+id/dialog_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -51,7 +51,7 @@
                 android:textSize="@dimen/dialog_title_size"
                 app:customStyle="semiBold" />
 
-            <com.awesomedialog.blennersilva.awesomedialoglibrary.custom.CustomTextView
+            <com.cuong.awesomelib.custom.CustomTextView
                 android:id="@+id/dialog_message"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

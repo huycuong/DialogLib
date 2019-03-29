@@ -30,7 +30,7 @@
             android:adjustViewBounds="true"
             android:scaleType="fitXY"/>
 
-        <com.awesomedialog.blennersilva.awesomedialoglibrary.custom.CustomTextView
+        <com.cuong.awesomelib.custom.CustomTextView
             app:customStyle="semiBold"
             android:id="@+id/dialog_title"
             android:textColor="#333333"

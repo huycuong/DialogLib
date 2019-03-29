@@ -47,7 +47,7 @@
                 android:minHeight="@dimen/min_height_banner"
                 android:scaleType="fitXY"
                 android:visibility="gone"/>
-            <com.awesomedialog.blennersilva.awesomedialoglibrary.custom.CustomTextView
+            <com.cuong.awesomelib.custom.CustomTextView
                 android:id="@+id/dialog_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -60,21 +60,8 @@
                 android:textColor="@color/colorTextPrimary"
                 android:textSize="@dimen/dialog_title_size"
                 app:customStyle="semiBold" />
-            <!--<com.awesomedialog.blennersilva.awesomedialoglibrary.custom.CustomTextView-->
-                <!--android:id="@+id/dialog_title"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:layout_alignParentTop="true"-->
-                <!--android:layout_below="@+id/banner"-->
-                <!--android:layout_centerHorizontal="true"-->
-                <!--android:layout_marginEnd="@dimen/activity_horizontal_margin"-->
-                <!--android:layout_marginStart="@dimen/activity_horizontal_margin"-->
-                <!--android:layout_marginTop="12dp"-->
-                <!--android:textColor="#333333"-->
-                <!--android:textSize="16sp"-->
-                <!--app:customStyle="bold" />-->
 
-            <com.awesomedialog.blennersilva.awesomedialoglibrary.custom.CustomTextView
+            <com.cuong.awesomelib.custom.CustomTextView
                 android:id="@+id/dialog_message"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -84,12 +71,12 @@
                 android:layout_marginStart="@dimen/activity_horizontal_margin"
                 android:layout_marginTop="@dimen/text_body_margin_top"
                 android:gravity="center"
-                android:text="Quý khách đã có tài khoản Vietbank. Vui lòng liên hệ với Vietbank qua hotline 18001122 để lấy thông tin số tài khoản"
+                android:text="That bai message"
                 android:textColor="#8e9098"
                 android:textSize="14sp"
                 app:customStyle="regular" />
 
-            <com.awesomedialog.blennersilva.awesomedialoglibrary.custom.CustomTextView
+            <com.cuong.awesomelib.custom.CustomTextView
                 android:id="@+id/dialog_additional_info"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
